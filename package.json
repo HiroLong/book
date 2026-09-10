@@ -1,0 +1,8 @@
+{
+  "name": "yuejian-library-seat",
+  "version": "1.0.0",
+  "private": true,
+  "description": "阅间图书馆座位预约系统",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}
